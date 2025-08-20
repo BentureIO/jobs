@@ -20,8 +20,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        persist-credentials: true
+        fetch-depth: 0
     
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -42,12 +41,12 @@ jobs:
     
     - name: Commit and push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add README.md
-        git commit -m "Update job listings - $(date +'%Y-%m-%d %H:%M:%S UTC')"
-        git push
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Update job listings - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+        file_pattern: README.md
+        commit_user_name: GitHub Actions Bot
+        commit_user_email: actions@github.com
     
     - name: No changes detected
       if: steps.verify-changed-files.outputs.changed == 'false'
