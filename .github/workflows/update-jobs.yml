@@ -2,13 +2,8 @@ name: Update Job Listings
 
 on:
   schedule:
-    # Run daily at 6:00 AM UTC
     - cron: '0 6 * * *'
-  
-  # Allow manual triggering
   workflow_dispatch:
-  
-  # Run on push to main branch (for testing)
   push:
     branches: [ main ]
 
@@ -20,7 +15,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0
+        token: ${{ secrets.PAT_TOKEN }}
     
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -41,12 +36,12 @@ jobs:
     
     - name: Commit and push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
-      uses: stefanzweifel/git-auto-commit-action@v5
-      with:
-        commit_message: "Update job listings - $(date +'%Y-%m-%d %H:%M:%S UTC')"
-        file_pattern: README.md
-        commit_user_name: GitHub Actions Bot
-        commit_user_email: actions@github.com
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update job listings - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+        git push
     
     - name: No changes detected
       if: steps.verify-changed-files.outputs.changed == 'false'
