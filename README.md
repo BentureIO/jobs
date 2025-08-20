@@ -2,7 +2,7 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: August 20, 2025 at 06:35 PM UTC*
+*Last updated: August 20, 2025 at 06:47 PM UTC*
 
 <!-- JOBS_START -->
 ## 🎯 140 Current Job Openings
@@ -233,7 +233,7 @@
 ---
 
 ### 💼 [Advanced Biology Research Expert](http://benture.io/job/advanced-biology-research-expert-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
