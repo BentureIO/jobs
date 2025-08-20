@@ -1,0 +1,29 @@
+{
+  "name": "benture-jobs",
+  "version": "1.0.0",
+  "description": "Automatically updated job listings from Benture.io RSS feed",
+  "main": "update-jobs.js",
+  "scripts": {
+    "update": "node update-jobs.js",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BentureIO/jobs.git"
+  },
+  "keywords": [
+    "jobs",
+    "rss",
+    "automation",
+    "benture"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BentureIO/jobs/issues"
+  },
+  "homepage": "https://github.com/BentureIO/jobs#readme",
+  "engines": {
+    "node": ">=14"
+  }
+}
