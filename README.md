@@ -2,10 +2,15 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: August 20, 2025 at 06:47 PM UTC*
+*Last updated: August 21, 2025 at 06:38 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 140 Current Job Openings
+## 🎯 141 Current Job Openings
+
+### 💼 [Data Scientist](http://benture.io/job/data-scientist-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
 
 ### 💼 [Legal Expert](http://benture.io/job/legal-expert-at-mercor-1)
 **🔥 Today** | 🌐 Remote
@@ -38,17 +43,17 @@
 ---
 
 ### 💼 [Investment Services Expert](http://benture.io/job/investment-services-expert-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Quant Finance Expert (PhD)](http://benture.io/job/quant-finance-expert-phd-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Computer Science Expert (PhD)](http://benture.io/job/computer-science-expert-phd-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
@@ -228,7 +233,7 @@
 ---
 
 ### 💼 [Biology Subject-Matter Expert](http://benture.io/job/biology-subject-matter-expert-at-invisible-tech)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
