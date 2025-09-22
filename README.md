@@ -2,238 +2,253 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: September 21, 2025 at 06:27 AM UTC*
+*Last updated: September 22, 2025 at 06:30 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 160 Current Job Openings
+## 🎯 161 Current Job Openings
+
+### 💼 [Technical Reviewer - RL Benchmarking](http://benture.io/job/technical-reviewer-rl-benchmarking-at-mercor-1)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Technical Reviewer - RL Benchmarking](http://benture.io/job/technical-reviewer-rl-benchmarking-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Consumer Brand Marketer](http://benture.io/job/consumer-brand-marketer-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
 
 ### 💼 [Optimization Specialist](http://benture.io/job/optimization-specialist-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [NLP Engineer](http://benture.io/job/nlp-engineer-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Robotics Software Engineer](http://benture.io/job/robotics-software-engineer-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Information Retrieval Engineer](http://benture.io/job/information-retrieval-engineer-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Applied Cryptographer](http://benture.io/job/applied-cryptographer-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Compiler Engineer](http://benture.io/job/compiler-engineer-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Parallel Computing Engineer](http://benture.io/job/parallel-computing-engineer-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Bioinformatics Researcher](http://benture.io/job/bioinformatics-researcher-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Data Engineer](http://benture.io/job/data-engineer-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Biology Expert](http://benture.io/job/biology-expert-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Physics Expert](http://benture.io/job/physics-expert-at-mercor-1)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Chemistry Subject Matter Expert](http://benture.io/job/chemistry-subject-matter-expert-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Applied Full-Stack Engineer](http://benture.io/job/applied-full-stack-engineer-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
-
----
-
-### 💼 [Software Engineering AI Tutor](http://benture.io/job/software-engineering-ai-tutor-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
-
----
-
-### 💼 [Humanities AI Tutor](http://benture.io/job/humanities-ai-tutor-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
-
----
-
-### 💼 [Chemistry Expert - AI Tutor](http://benture.io/job/chemistry-expert-ai-tutor-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
-
----
-
-### 💼 [Software Engineer (AI Systems)](http://benture.io/job/software-engineer-ai-systems-at-mercor-1)
-**⭐ Yesterday** | 🌐 Remote
-
----
-
-### 💼 [Mathematics PhD Research Consultant](http://benture.io/job/mathematics-phd-research-consultant-at-mercor)
 **📅 2 days ago** | 🌐 Remote
 
 ---
 
-### 💼 [Bilingual French Education Expert](http://benture.io/job/bilingual-french-education-expert-at-mercor)
+### 💼 [Software Engineering AI Tutor](http://benture.io/job/software-engineering-ai-tutor-at-mercor)
+**📅 2 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Humanities AI Tutor](http://benture.io/job/humanities-ai-tutor-at-mercor)
+**📅 2 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Chemistry Expert - AI Tutor](http://benture.io/job/chemistry-expert-ai-tutor-at-mercor)
+**📅 2 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Software Engineer (AI Systems)](http://benture.io/job/software-engineer-ai-systems-at-mercor-1)
+**📅 2 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Mathematics PhD Research Consultant](http://benture.io/job/mathematics-phd-research-consultant-at-mercor)
 **📅 3 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Bilingual French Education Expert](http://benture.io/job/bilingual-french-education-expert-at-mercor)
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual French Finance Expert](http://benture.io/job/bilingual-french-finance-expert-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual French Medical Expert](http://benture.io/job/bilingual-french-medical-expert-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Audio AI Writing Specialist](http://benture.io/job/audio-ai-writing-specialist-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Generalist Writing Expert](http://benture.io/job/generalist-writing-expert-at-mercor-1)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Computer Science Expert (PhD)](http://benture.io/job/computer-science-expert-phd-at-mercor-1)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Engineering Expert (PhD)](http://benture.io/job/engineering-expert-phd-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Lawyers (South Africa)](http://benture.io/job/lawyers-south-africa-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [UAE Legal Document Specialist](http://benture.io/job/uae-legal-document-specialist-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Saudi Arabic Bilingual Generalist](http://benture.io/job/saudi-arabic-bilingual-generalist-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [STEM Subject Matter Expert](http://benture.io/job/stem-subject-matter-expert-at-mercor-1)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Social Media Influencer](http://benture.io/job/social-media-influencer-at-mercor)
-**📅 4 days ago** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Japanese Legal Expert](http://benture.io/job/bilingual-japanese-legal-expert-at-mercor)
-**📅 4 days ago** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Japanese Policy Expert](http://benture.io/job/bilingual-japanese-policy-expert-at-mercor)
-**📅 4 days ago** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Japanese Marketing Expert](http://benture.io/job/bilingual-japanese-marketing-expert-at-mercor)
-**📅 4 days ago** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Japanese Education Expert](http://benture.io/job/bilingual-japanese-education-expert-at-mercor)
-**📅 4 days ago** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Japanese Finance Expert](http://benture.io/job/bilingual-japanese-finance-expert-at-mercor)
-**📅 4 days ago** | 🌐 Remote
-
----
-
-### 💼 [Personal Shopper &amp; Stylist](http://benture.io/job/personal-shopper-stylist-at-mercor)
-**📅 4 days ago** | 🌐 Remote
-
----
-
-### 💼 [International Math Olympiad Medalist](http://benture.io/job/international-math-olympiad-medalist-at-mercor)
-**📅 4 days ago** | 🌐 Remote
-
----
-
-### 💼 [Software Engineer – AI Systems](http://benture.io/job/software-engineer-ai-systems-at-mercor)
-**📅 4 days ago** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Japanese Medical Expert](http://benture.io/job/bilingual-japanese-medical-expert-at-mercor)
-**📅 4 days ago** | 🌐 Remote
-
----
-
-### 💼 [Recruiting Coordinator](http://benture.io/job/recruiting-coordinator-at-mercor)
 **📅 5 days ago** | 🌐 Remote
 
 ---
 
-### 💼 [Bilingual French Public Policy Expert](http://benture.io/job/bilingual-french-public-policy-expert-at-mercor)
+### 💼 [Bilingual Japanese Legal Expert](http://benture.io/job/bilingual-japanese-legal-expert-at-mercor)
+**📅 5 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Bilingual Japanese Policy Expert](http://benture.io/job/bilingual-japanese-policy-expert-at-mercor)
+**📅 5 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Bilingual Japanese Marketing Expert](http://benture.io/job/bilingual-japanese-marketing-expert-at-mercor)
+**📅 5 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Bilingual Japanese Education Expert](http://benture.io/job/bilingual-japanese-education-expert-at-mercor)
+**📅 5 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Bilingual Japanese Finance Expert](http://benture.io/job/bilingual-japanese-finance-expert-at-mercor)
+**📅 5 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Personal Shopper &amp; Stylist](http://benture.io/job/personal-shopper-stylist-at-mercor)
+**📅 5 days ago** | 🌐 Remote
+
+---
+
+### 💼 [International Math Olympiad Medalist](http://benture.io/job/international-math-olympiad-medalist-at-mercor)
+**📅 5 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Software Engineer – AI Systems](http://benture.io/job/software-engineer-ai-systems-at-mercor)
+**📅 5 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Bilingual Japanese Medical Expert](http://benture.io/job/bilingual-japanese-medical-expert-at-mercor)
+**📅 5 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Recruiting Coordinator](http://benture.io/job/recruiting-coordinator-at-mercor)
 **📅 6 days ago** | 🌐 Remote
 
 ---
 
-### 💼 [English Audio Model Trainer](http://benture.io/job/english-audio-model-trainer-at-mercor)
+### 💼 [Bilingual French Public Policy Expert](http://benture.io/job/bilingual-french-public-policy-expert-at-mercor)
 **📅 7 days ago** | 🌐 Remote
+
+---
+
+### 💼 [English Audio Model Trainer](http://benture.io/job/english-audio-model-trainer-at-mercor)
+**📅 Sep 13, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual French Legal Expert](http://benture.io/job/bilingual-french-legal-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Sep 13, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual French Marketing Expert](http://benture.io/job/bilingual-french-marketing-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Sep 13, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Developer Experience Engineer](http://benture.io/job/developer-experience-engineer-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Sep 13, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Database Platform Engineer](http://benture.io/job/database-platform-engineer-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Sep 13, 2025** | 🌐 Remote
 
 ---
 
@@ -794,16 +809,6 @@
 
 ### 💼 [Platform Engineer](http://benture.io/job/platform-engineer-at-mercor)
 **📅 Aug 23, 2025** | 🌐 Remote
-
----
-
-### 💼 [Uiua Programming Language Expert](http://benture.io/job/uiua-programming-language-expert-at-mercor)
-**📅 Aug 22, 2025** | 🌐 Remote
-
----
-
-### 💼 [Late Night TV Scriptwriter](http://benture.io/job/late-night-tv-scriptwriter-at-mercor)
-**📅 Aug 22, 2025** | 🌐 Remote
 
 ---
 
