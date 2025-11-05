@@ -2,63 +2,63 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: November 4, 2025 at 06:30 AM UTC*
+*Last updated: November 5, 2025 at 06:30 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 101 Current Job Openings
+## 🎯 100 Current Job Openings
 
 ### 💼 [Competitive Math Expert](http://benture.io/job/competitive-math-expert-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Personal Financial Advisor](http://benture.io/job/personal-financial-advisor-at-mercor-1)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Japanese Language Consultant](http://benture.io/job/japanese-language-consultant-at-mercor-2)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Shipping, Receiving &amp; Inventory Clerk](http://benture.io/job/shipping-receiving-inventory-clerk-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Buyers and Purchasing Agents](http://benture.io/job/buyers-and-purchasing-agents-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Sales &amp; Marketing Data Specialist](http://benture.io/job/ai-sales-marketing-data-specialist-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Video Captioning &amp; Summarization Expert](http://benture.io/job/video-captioning-summarization-expert-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Video Prompting Expert](http://benture.io/job/video-prompting-expert-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Recreation Workers](http://benture.io/job/recreation-workers-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Oct 27, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Visual Arts Criticism &amp; Instruction Expert](http://benture.io/job/visual-arts-criticism-instruction-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Oct 27, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Evaluation Generalist](http://benture.io/job/ai-evaluation-generalist-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Oct 27, 2025** | 🌐 Remote
 
 ---
 
@@ -504,11 +504,6 @@
 
 ### 💼 [Software Engineer: Rust, JS/TS, Python](http://benture.io/job/software-engineer-rust-js-ts-python-at-mercor)
 **📅 Oct 7, 2025** | 🌐 Remote
-
----
-
-### 💼 [Experienced Data Scientist](http://benture.io/job/experienced-data-scientist-at-mercor)
-**📅 Oct 5, 2025** | 🌐 Remote
 
 ---
 
