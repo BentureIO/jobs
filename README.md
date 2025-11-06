@@ -2,48 +2,58 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: November 5, 2025 at 06:30 AM UTC*
+*Last updated: November 6, 2025 at 06:30 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 100 Current Job Openings
+## 🎯 102 Current Job Openings
+
+### 💼 [VFX Artist / Creator](http://benture.io/job/vfx-artist-creator-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Sound / Audio Editor](http://benture.io/job/sound-audio-editor-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
 
 ### 💼 [Competitive Math Expert](http://benture.io/job/competitive-math-expert-at-mercor)
-**📅 2 days ago** | 🌐 Remote
+**📅 3 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Personal Financial Advisor](http://benture.io/job/personal-financial-advisor-at-mercor-1)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Japanese Language Consultant](http://benture.io/job/japanese-language-consultant-at-mercor-2)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Shipping, Receiving &amp; Inventory Clerk](http://benture.io/job/shipping-receiving-inventory-clerk-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Buyers and Purchasing Agents](http://benture.io/job/buyers-and-purchasing-agents-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Oct 28, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Sales &amp; Marketing Data Specialist](http://benture.io/job/ai-sales-marketing-data-specialist-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Oct 28, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Video Captioning &amp; Summarization Expert](http://benture.io/job/video-captioning-summarization-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Oct 28, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Video Prompting Expert](http://benture.io/job/video-prompting-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Oct 28, 2025** | 🌐 Remote
 
 ---
 
