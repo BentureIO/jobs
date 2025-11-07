@@ -2,38 +2,43 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: November 6, 2025 at 06:30 AM UTC*
+*Last updated: November 7, 2025 at 06:30 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 102 Current Job Openings
+## 🎯 101 Current Job Openings
+
+### 💼 [Data Scientist - AI Evaluation &amp; Analysis](http://benture.io/job/data-scientist-ai-evaluation-analysis-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
 
 ### 💼 [VFX Artist / Creator](http://benture.io/job/vfx-artist-creator-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Sound / Audio Editor](http://benture.io/job/sound-audio-editor-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Competitive Math Expert](http://benture.io/job/competitive-math-expert-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Personal Financial Advisor](http://benture.io/job/personal-financial-advisor-at-mercor-1)
-**📅 7 days ago** | 🌐 Remote
+**📅 Oct 29, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Japanese Language Consultant](http://benture.io/job/japanese-language-consultant-at-mercor-2)
-**📅 7 days ago** | 🌐 Remote
+**📅 Oct 29, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Shipping, Receiving &amp; Inventory Clerk](http://benture.io/job/shipping-receiving-inventory-clerk-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Oct 29, 2025** | 🌐 Remote
 
 ---
 
@@ -504,16 +509,6 @@
 
 ### 💼 [English–Japanese Meeting Translator](http://benture.io/job/english-japanese-meeting-translator-at-mercor)
 **📅 Oct 8, 2025** | 🌐 Remote
-
----
-
-### 💼 [Insurance Verification Script Writer](http://benture.io/job/insurance-verification-script-writer-at-mercor)
-**📅 Oct 7, 2025** | 🌐 Remote
-
----
-
-### 💼 [Software Engineer: Rust, JS/TS, Python](http://benture.io/job/software-engineer-rust-js-ts-python-at-mercor)
-**📅 Oct 7, 2025** | 🌐 Remote
 
 ---
 
