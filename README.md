@@ -2,28 +2,43 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: November 7, 2025 at 06:30 AM UTC*
+*Last updated: November 8, 2025 at 06:27 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 101 Current Job Openings
+## 🎯 92 Current Job Openings
 
-### 💼 [Data Scientist - AI Evaluation &amp; Analysis](http://benture.io/job/data-scientist-ai-evaluation-analysis-at-mercor)
+### 💼 [Engineering Expert &amp; Problem Writer](http://benture.io/job/engineering-expert-problem-writer-at-mercor)
 **🔥 Today** | 🌐 Remote
 
 ---
 
-### 💼 [VFX Artist / Creator](http://benture.io/job/vfx-artist-creator-at-mercor)
+### 💼 [Astronomy Expert (Olympiad Problem Writer)](http://benture.io/job/astronomy-expert-olympiad-problem-writer-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Bioinformatics PhD Researcher](http://benture.io/job/bioinformatics-phd-researcher-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Data Scientist - AI Evaluation &amp; Analysis](http://benture.io/job/data-scientist-ai-evaluation-analysis-at-mercor)
 **⭐ Yesterday** | 🌐 Remote
+
+---
+
+### 💼 [VFX Artist / Creator](http://benture.io/job/vfx-artist-creator-at-mercor)
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Sound / Audio Editor](http://benture.io/job/sound-audio-editor-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Competitive Math Expert](http://benture.io/job/competitive-math-expert-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
@@ -449,66 +464,6 @@
 
 ### 💼 [Mechanical Engineer](http://benture.io/job/mechanical-engineer-at-mercor)
 **📅 Oct 9, 2025** | 🌐 Remote
-
----
-
-### 💼 [Pharmacy Insurance Script Writer](http://benture.io/job/pharmacy-insurance-script-writer-at-mercor)
-**📅 Oct 8, 2025** | 🌐 Remote
-
----
-
-### 💼 [Software Engineering Annotator](http://benture.io/job/software-engineering-annotator-at-mercor)
-**📅 Oct 8, 2025** | 🌐 Remote
-
----
-
-### 💼 [Liberal Politics Expert](http://benture.io/job/liberal-politics-expert-at-mercor)
-**📅 Oct 8, 2025** | 🌐 Remote
-
----
-
-### 💼 [Conservative Politics Expert](http://benture.io/job/conservative-politics-expert-at-mercor)
-**📅 Oct 8, 2025** | 🌐 Remote
-
----
-
-### 💼 [Pop Culture Video Specialist](http://benture.io/job/pop-culture-video-specialist-at-mercor)
-**📅 Oct 8, 2025** | 🌐 Remote
-
----
-
-### 💼 [General Practitioner, Medicine](http://benture.io/job/general-practitioner-medicine-at-mercor-1)
-**📅 Oct 8, 2025** | 🌐 Remote
-
----
-
-### 💼 [General Practitioner Consultant](http://benture.io/job/general-practitioner-consultant-at-mercor-1)
-**📅 Oct 8, 2025** | 🌐 Remote
-
----
-
-### 💼 [General Practitioner, Medicine](http://benture.io/job/general-practitioner-medicine-at-mercor)
-**📅 Oct 8, 2025** | 🌐 Remote
-
----
-
-### 💼 [General Practitioner Reviewer](http://benture.io/job/general-practitioner-reviewer-at-mercor)
-**📅 Oct 8, 2025** | 🌐 Remote
-
----
-
-### 💼 [General Practitioner Consultant](http://benture.io/job/general-practitioner-consultant-at-mercor)
-**📅 Oct 8, 2025** | 🌐 Remote
-
----
-
-### 💼 [General Practitioner (Non-Clinical)](http://benture.io/job/general-practitioner-non-clinical-at-mercor)
-**📅 Oct 8, 2025** | 🌐 Remote
-
----
-
-### 💼 [English–Japanese Meeting Translator](http://benture.io/job/english-japanese-meeting-translator-at-mercor)
-**📅 Oct 8, 2025** | 🌐 Remote
 
 ---
 
