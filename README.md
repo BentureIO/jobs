@@ -2,68 +2,68 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: November 18, 2025 at 06:30 AM UTC*
+*Last updated: November 19, 2025 at 06:30 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 81 Current Job Openings
+## 🎯 70 Current Job Openings
 
 ### 💼 [Accounting Expert](http://benture.io/job/accounting-expert-at-mercor-2)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Linguistic Expert – French (France)](http://benture.io/job/linguistic-expert-french-france-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Linguistic Expert – Turkish](http://benture.io/job/linguistic-expert-turkish-at-mercor-1)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Medical Resident - AI Healthcare Project](http://benture.io/job/medical-resident-ai-healthcare-project-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Medical Fellow - AI Medical Reasoning Project](http://benture.io/job/medical-fellow-ai-medical-reasoning-project-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Expert Reviewer - PhD Preferred](http://benture.io/job/expert-reviewer-phd-preferred-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Machine Learning Researcher (PhD)](http://benture.io/job/machine-learning-researcher-phd-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Industrial Engineer](http://benture.io/job/industrial-engineer-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Biology Labeling Expert](http://benture.io/job/biology-labeling-expert-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Image AI Model Trainer](http://benture.io/job/image-ai-model-trainer-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Film and Video Editor](http://benture.io/job/film-and-video-editor-at-mercor-1)
-**📅 7 days ago** | 🌐 Remote
+**📅 Nov 10, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Accountant and Auditor](http://benture.io/job/accountant-and-auditor-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Nov 10, 2025** | 🌐 Remote
 
 ---
 
@@ -354,61 +354,6 @@
 
 ### 💼 [Civil Engineering AI Tutor](http://benture.io/job/civil-engineering-ai-tutor-at-mercor)
 **📅 Oct 20, 2025** | 🌐 Remote
-
----
-
-### 💼 [IT Systems Manager](http://benture.io/job/it-systems-manager-at-mercor)
-**📅 Oct 19, 2025** | 🌐 Remote
-
----
-
-### 💼 [Production Supervisor - Manufacturing](http://benture.io/job/production-supervisor-manufacturing-at-mercor)
-**📅 Oct 19, 2025** | 🌐 Remote
-
----
-
-### 💼 [Manufacturing Procurement Specialist](http://benture.io/job/manufacturing-procurement-specialist-at-mercor)
-**📅 Oct 19, 2025** | 🌐 Remote
-
----
-
-### 💼 [Data Annotation Expert](http://benture.io/job/data-annotation-expert-at-mercor)
-**📅 Oct 19, 2025** | 🌐 Remote
-
----
-
-### 💼 [Medical Office Supervisor](http://benture.io/job/medical-office-supervisor-at-mercor)
-**📅 Oct 19, 2025** | 🌐 Remote
-
----
-
-### 💼 [Warehouse &amp; Inventory Specialist](http://benture.io/job/warehouse-inventory-specialist-at-mercor)
-**📅 Oct 19, 2025** | 🌐 Remote
-
----
-
-### 💼 [Mechanical Engineer - AI Training](http://benture.io/job/mechanical-engineer-ai-training-at-mercor)
-**📅 Oct 19, 2025** | 🌐 Remote
-
----
-
-### 💼 [AI Buy-Side Finance Tutor](http://benture.io/job/ai-buy-side-finance-tutor-at-mercor)
-**📅 Oct 19, 2025** | 🌐 Remote
-
----
-
-### 💼 [Chemical Engineering AI Tutor](http://benture.io/job/chemical-engineering-ai-tutor-at-mercor)
-**📅 Oct 19, 2025** | 🌐 Remote
-
----
-
-### 💼 [Chemistry Tutor - AI Training Specialist](http://benture.io/job/chemistry-tutor-ai-training-specialist-at-mercor)
-**📅 Oct 19, 2025** | 🌐 Remote
-
----
-
-### 💼 [Data Science Tutor](http://benture.io/job/data-science-tutor-at-mercor)
-**📅 Oct 19, 2025** | 🌐 Remote
 
 ---
 
