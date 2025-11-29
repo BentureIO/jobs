@@ -2,163 +2,178 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: November 28, 2025 at 06:32 AM UTC*
+*Last updated: November 29, 2025 at 06:29 AM UTC*
 
 <!-- JOBS_START -->
 ## 🎯 69 Current Job Openings
 
-### 💼 [Education Content Specialist](http://benture.io/job/education-content-specialist-at-mercor)
+### 💼 [Law Specialist (J.D. Required)](http://benture.io/job/law-specialist-j-d-required-at-mercor)
 **🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Indonesian Language Expert](http://benture.io/job/indonesian-language-expert-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [SaaS Software Data Reviewer](http://benture.io/job/saas-software-data-reviewer-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Education Content Specialist](http://benture.io/job/education-content-specialist-at-mercor)
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Clinical Research &amp; Medical Documentation Expert](http://benture.io/job/clinical-research-medical-documentation-expert-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Frontend Software Engineer (React, TypeScript)](http://benture.io/job/frontend-software-engineer-react-typescript-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [History &amp; Humanities Specialist](http://benture.io/job/history-humanities-specialist-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Technical Documentation Specialist](http://benture.io/job/technical-documentation-specialist-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Academic Research Specialist (Master&#39;s/PhD)](http://benture.io/job/academic-research-specialist-master-s-phd-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Backend Software Engineer](http://benture.io/job/backend-software-engineer-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Backend Software Engineer: Go](http://benture.io/job/backend-software-engineer-go-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Backend Software Engineer - Python](http://benture.io/job/backend-software-engineer-python-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Finance Specialist - Investment Banking &amp; PE](http://benture.io/job/finance-specialist-investment-banking-pe-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [P&amp;C Actuaries](http://benture.io/job/p-c-actuaries-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Pension Actuary](http://benture.io/job/pension-actuary-at-mercor)
-**📅 2 days ago** | 🌐 Remote
-
----
-
-### 💼 [Claims Adjuster &amp; Insurance Investigator](http://benture.io/job/claims-adjuster-insurance-investigator-at-mercor)
-**📅 2 days ago** | 🌐 Remote
-
----
-
-### 💼 [Insurance Underwriter](http://benture.io/job/insurance-underwriter-at-mercor)
-**📅 2 days ago** | 🌐 Remote
-
----
-
-### 💼 [Senior Code Review Expert for AI Evaluation](http://benture.io/job/senior-code-review-expert-for-ai-evaluation-at-mercor)
-**📅 2 days ago** | 🌐 Remote
-
----
-
-### 💼 [Staff/General Accountant](http://benture.io/job/staff-general-accountant-at-mercor)
-**📅 2 days ago** | 🌐 Remote
-
----
-
-### 💼 [Software Technical Writer](http://benture.io/job/software-technical-writer-at-mercor)
-**📅 2 days ago** | 🌐 Remote
-
----
-
-### 💼 [Spain Law Expert](http://benture.io/job/spain-law-expert-at-mercor)
 **📅 3 days ago** | 🌐 Remote
 
 ---
 
+### 💼 [Claims Adjuster &amp; Insurance Investigator](http://benture.io/job/claims-adjuster-insurance-investigator-at-mercor)
+**📅 3 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Insurance Underwriter](http://benture.io/job/insurance-underwriter-at-mercor)
+**📅 3 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Senior Code Review Expert for AI Evaluation](http://benture.io/job/senior-code-review-expert-for-ai-evaluation-at-mercor)
+**📅 3 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Staff/General Accountant](http://benture.io/job/staff-general-accountant-at-mercor)
+**📅 3 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Software Technical Writer](http://benture.io/job/software-technical-writer-at-mercor)
+**📅 3 days ago** | 🌐 Remote
+
+---
+
+### 💼 [Spain Law Expert](http://benture.io/job/spain-law-expert-at-mercor)
+**📅 4 days ago** | 🌐 Remote
+
+---
+
 ### 💼 [Mathematics Expert (Master&#39;s/PhD)](http://benture.io/job/mathematics-expert-master-s-phd-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Open Source Developer](http://benture.io/job/open-source-developer-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [PK/PD Modeling &amp; Pharmacometrics Lead](http://benture.io/job/pk-pd-modeling-pharmacometrics-lead-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Human Super-Forecaster](http://benture.io/job/human-super-forecaster-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [PK/PD Translational Pharmacology Expert](http://benture.io/job/pk-pd-translational-pharmacology-expert-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Peak Sales Forecasting Expert](http://benture.io/job/peak-sales-forecasting-expert-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Utility Management Nurse - Insurance Coding](http://benture.io/job/utility-management-nurse-insurance-coding-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Agent Infrastructure Engineer](http://benture.io/job/ai-agent-infrastructure-engineer-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Nov 20, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Life/Health Actuarial Data Specialist](http://benture.io/job/life-health-actuarial-data-specialist-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Nov 20, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Consumer Loan Underwriter](http://benture.io/job/consumer-loan-underwriter-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Nov 20, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Applied Data Scientist](http://benture.io/job/applied-data-scientist-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Nov 20, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Digital Marketing Analyst](http://benture.io/job/digital-marketing-analyst-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Nov 20, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Database Administrator](http://benture.io/job/database-administrator-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Nov 20, 2025** | 🌐 Remote
 
 ---
 
@@ -334,21 +349,6 @@
 
 ### 💼 [Competitive Math Expert](http://benture.io/job/competitive-math-expert-at-mercor)
 **📅 Nov 2, 2025** | 🌐 Remote
-
----
-
-### 💼 [Personal Financial Advisor](http://benture.io/job/personal-financial-advisor-at-mercor-1)
-**📅 Oct 29, 2025** | 🌐 Remote
-
----
-
-### 💼 [Japanese Language Consultant](http://benture.io/job/japanese-language-consultant-at-mercor-2)
-**📅 Oct 29, 2025** | 🌐 Remote
-
----
-
-### 💼 [Shipping, Receiving &amp; Inventory Clerk](http://benture.io/job/shipping-receiving-inventory-clerk-at-mercor)
-**📅 Oct 29, 2025** | 🌐 Remote
 
 ---
 
