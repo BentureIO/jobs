@@ -2,128 +2,158 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: December 10, 2025 at 06:34 AM UTC*
+*Last updated: December 11, 2025 at 06:34 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 77 Current Job Openings
+## 🎯 81 Current Job Openings
+
+### 💼 [Voice Recording Specialist - New England Accent](http://benture.io/job/voice-recording-specialist-new-england-accent-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Voice Recording Specialist - US Accent](http://benture.io/job/voice-recording-specialist-us-accent-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Voice Recording Specialist - US Accent](http://benture.io/job/voice-recording-specialist-us-accent-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Voice Recording Specialist - Caribbean/African](http://benture.io/job/voice-recording-specialist-caribbean-african-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Spanish Voice Recording Specialist (Spain Accent)](http://benture.io/job/spanish-voice-recording-specialist-spain-accent-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Biology Expert (PhD)](http://benture.io/job/biology-expert-phd-at-mercor-3)
+**🔥 Today** | 🌐 Remote
+
+---
 
 ### 💼 [Ophthalmologist - Clinical AI Data Review](http://benture.io/job/ophthalmologist-clinical-ai-data-review-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Mathematician - AI Reasoning &amp; Agent Systems](http://benture.io/job/mathematician-ai-reasoning-agent-systems-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Finance Specialist — Excel Dataset Creation](http://benture.io/job/finance-specialist-excel-dataset-creation-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Accounting Specialist — Excel Dataset Creation](http://benture.io/job/accounting-specialist-excel-dataset-creation-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Excel Dataset Creation Specialist](http://benture.io/job/excel-dataset-creation-specialist-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual Expert - English &amp; Arabic](http://benture.io/job/bilingual-expert-english-arabic-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual Translation Expert (English-French)](http://benture.io/job/bilingual-translation-expert-english-french-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual Language Expert (English-Korean)](http://benture.io/job/bilingual-language-expert-english-korean-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual Language Expert (English-Russian)](http://benture.io/job/bilingual-language-expert-english-russian-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual Language Expert (English &amp; Italian)](http://benture.io/job/bilingual-language-expert-english-italian-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual Language Expert (English &amp; Spanish)](http://benture.io/job/bilingual-language-expert-english-spanish-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual Language Expert (English &amp; Chinese)](http://benture.io/job/bilingual-language-expert-english-chinese-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual Language Expert (English &amp; Polish)](http://benture.io/job/bilingual-language-expert-english-polish-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Sales &amp; Operations Excel Specialist](http://benture.io/job/sales-operations-excel-specialist-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual Language Expert (English &amp; Japanese)](http://benture.io/job/bilingual-language-expert-english-japanese-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Biology Expert (Masters/PhD)](http://benture.io/job/biology-expert-masters-phd-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Material Science Expert (Masters/PhD)](http://benture.io/job/material-science-expert-masters-phd-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Physics Expert (Masters/PhD)](http://benture.io/job/physics-expert-masters-phd-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Chemistry Expert (Masters/PhD)](http://benture.io/job/chemistry-expert-masters-phd-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Mathematics Expert (Masters/PhD)](http://benture.io/job/mathematics-expert-masters-phd-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Data Scientist (Kaggle Grandmaster)](http://benture.io/job/data-scientist-kaggle-grandmaster-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [PhD Computational Biologist - AI Benchmarks](http://benture.io/job/phd-computational-biologist-ai-benchmarks-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Rubric Academy Fellowship - AI Evaluation Expert](http://benture.io/job/rubric-academy-fellowship-ai-evaluation-expert-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Prompt Academy Fellowship](http://benture.io/job/prompt-academy-fellowship-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Dec 2, 2025** | 🌐 Remote
 
 ---
 
@@ -379,16 +409,6 @@
 
 ### 💼 [Image AI Model Trainer](http://benture.io/job/image-ai-model-trainer-at-mercor)
 **📅 Nov 11, 2025** | 🌐 Remote
-
----
-
-### 💼 [Film and Video Editor](http://benture.io/job/film-and-video-editor-at-mercor-1)
-**📅 Nov 10, 2025** | 🌐 Remote
-
----
-
-### 💼 [Accountant and Auditor](http://benture.io/job/accountant-and-auditor-at-mercor)
-**📅 Nov 10, 2025** | 🌐 Remote
 
 ---
 
