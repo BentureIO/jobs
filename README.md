@@ -2,53 +2,58 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: December 31, 2025 at 06:35 AM UTC*
+*Last updated: January 1, 2026 at 06:34 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 69 Current Job Openings
+## 🎯 70 Current Job Openings
+
+### 💼 [Radiology Expert](http://benture.io/job/radiology-expert-at-mercor-2)
+**🔥 Today** | 🌐 Remote
+
+---
 
 ### 💼 [Research Data Science Expert (Coding)](http://benture.io/job/research-data-science-expert-coding-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [STEM-Coding Expert (Math, Physics, Chemistry, Bio)](http://benture.io/job/stem-coding-expert-math-physics-chemistry-bio-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [GIS Research Analyst](http://benture.io/job/gis-research-analyst-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Climate Data Scientist](http://benture.io/job/climate-data-scientist-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Clinical Researcher (STEM PhD)](http://benture.io/job/clinical-researcher-stem-phd-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Data Engineer – Sports Data &amp; Pipelines](http://benture.io/job/data-engineer-sports-data-pipelines-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Senior Software Engineer / Coding Expert](http://benture.io/job/senior-software-engineer-coding-expert-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Late Career Lawyer](http://benture.io/job/late-career-lawyer-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Dec 23, 2025** | 🌐 Remote
 
 ---
 
 ### 💼 [Early Career Lawyer](http://benture.io/job/early-career-lawyer-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Dec 23, 2025** | 🌐 Remote
 
 ---
 
