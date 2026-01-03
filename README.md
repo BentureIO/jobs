@@ -2,18 +2,18 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: January 2, 2026 at 06:35 AM UTC*
+*Last updated: January 3, 2026 at 06:31 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 69 Current Job Openings
+## 🎯 66 Current Job Openings
 
 ### 💼 [Radiology Expert](http://benture.io/job/radiology-expert-at-mercor-2)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Research Data Science Expert (Coding)](http://benture.io/job/research-data-science-expert-coding-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Dec 25, 2025** | 🌐 Remote
 
 ---
 
@@ -334,21 +334,6 @@
 
 ### 💼 [Mathematics Expert (Masters/PhD)](http://benture.io/job/mathematics-expert-masters-phd-at-mercor)
 **📅 Dec 4, 2025** | 🌐 Remote
-
----
-
-### 💼 [Data Scientist (Kaggle Grandmaster)](http://benture.io/job/data-scientist-kaggle-grandmaster-at-mercor)
-**📅 Dec 3, 2025** | 🌐 Remote
-
----
-
-### 💼 [PhD Computational Biologist - AI Benchmarks](http://benture.io/job/phd-computational-biologist-ai-benchmarks-at-mercor)
-**📅 Dec 3, 2025** | 🌐 Remote
-
----
-
-### 💼 [Rubric Academy Fellowship - AI Evaluation Expert](http://benture.io/job/rubric-academy-fellowship-ai-evaluation-expert-at-mercor)
-**📅 Dec 3, 2025** | 🌐 Remote
 
 ---
 
