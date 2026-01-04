@@ -2,13 +2,63 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: January 3, 2026 at 06:32 AM UTC*
+*Last updated: January 4, 2026 at 06:33 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 66 Current Job Openings
+## 🎯 70 Current Job Openings
+
+### 💼 [Generalist - AI Training &amp; Evaluation](http://benture.io/job/generalist-ai-training-evaluation-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-8)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-7)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-6)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [AI Red-Teamer — Adversarial Testing Specialist](http://benture.io/job/ai-red-teamer-adversarial-testing-specialist-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-5)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-4)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-3)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-2)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-1)
+**🔥 Today** | 🌐 Remote
+
+---
 
 ### 💼 [Radiology Expert](http://benture.io/job/radiology-expert-at-mercor-2)
-**📅 2 days ago** | 🌐 Remote
+**📅 3 days ago** | 🌐 Remote
 
 ---
 
@@ -304,36 +354,6 @@
 
 ### 💼 [Sales &amp; Operations Excel Specialist](http://benture.io/job/sales-operations-excel-specialist-at-mercor)
 **📅 Dec 5, 2025** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Language Expert (English &amp; Japanese)](http://benture.io/job/bilingual-language-expert-english-japanese-at-mercor)
-**📅 Dec 4, 2025** | 🌐 Remote
-
----
-
-### 💼 [Biology Expert (Masters/PhD)](http://benture.io/job/biology-expert-masters-phd-at-mercor)
-**📅 Dec 4, 2025** | 🌐 Remote
-
----
-
-### 💼 [Material Science Expert (Masters/PhD)](http://benture.io/job/material-science-expert-masters-phd-at-mercor)
-**📅 Dec 4, 2025** | 🌐 Remote
-
----
-
-### 💼 [Physics Expert (Masters/PhD)](http://benture.io/job/physics-expert-masters-phd-at-mercor)
-**📅 Dec 4, 2025** | 🌐 Remote
-
----
-
-### 💼 [Chemistry Expert (Masters/PhD)](http://benture.io/job/chemistry-expert-masters-phd-at-mercor)
-**📅 Dec 4, 2025** | 🌐 Remote
-
----
-
-### 💼 [Mathematics Expert (Masters/PhD)](http://benture.io/job/mathematics-expert-masters-phd-at-mercor)
-**📅 Dec 4, 2025** | 🌐 Remote
 
 ---
 
