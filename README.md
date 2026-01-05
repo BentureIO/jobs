@@ -2,63 +2,68 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: January 4, 2026 at 06:33 AM UTC*
+*Last updated: January 5, 2026 at 06:39 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 70 Current Job Openings
+## 🎯 62 Current Job Openings
+
+### 💼 [PhD Student / Graduate - AI Dataset Development](http://benture.io/job/phd-student-graduate-ai-dataset-development-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
 
 ### 💼 [Generalist - AI Training &amp; Evaluation](http://benture.io/job/generalist-ai-training-evaluation-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-8)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-7)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-6)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Red-Teamer — Adversarial Testing Specialist](http://benture.io/job/ai-red-teamer-adversarial-testing-specialist-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-5)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-4)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-3)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-2)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-1)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Radiology Expert](http://benture.io/job/radiology-expert-at-mercor-2)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
@@ -309,51 +314,6 @@
 
 ### 💼 [Excel Dataset Creation Specialist](http://benture.io/job/excel-dataset-creation-specialist-at-mercor)
 **📅 Dec 6, 2025** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Expert - English &amp; Arabic](http://benture.io/job/bilingual-expert-english-arabic-at-mercor)
-**📅 Dec 5, 2025** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Translation Expert (English-French)](http://benture.io/job/bilingual-translation-expert-english-french-at-mercor)
-**📅 Dec 5, 2025** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Language Expert (English-Korean)](http://benture.io/job/bilingual-language-expert-english-korean-at-mercor)
-**📅 Dec 5, 2025** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Language Expert (English-Russian)](http://benture.io/job/bilingual-language-expert-english-russian-at-mercor)
-**📅 Dec 5, 2025** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Language Expert (English &amp; Italian)](http://benture.io/job/bilingual-language-expert-english-italian-at-mercor)
-**📅 Dec 5, 2025** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Language Expert (English &amp; Spanish)](http://benture.io/job/bilingual-language-expert-english-spanish-at-mercor)
-**📅 Dec 5, 2025** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Language Expert (English &amp; Chinese)](http://benture.io/job/bilingual-language-expert-english-chinese-at-mercor)
-**📅 Dec 5, 2025** | 🌐 Remote
-
----
-
-### 💼 [Bilingual Language Expert (English &amp; Polish)](http://benture.io/job/bilingual-language-expert-english-polish-at-mercor)
-**📅 Dec 5, 2025** | 🌐 Remote
-
----
-
-### 💼 [Sales &amp; Operations Excel Specialist](http://benture.io/job/sales-operations-excel-specialist-at-mercor)
-**📅 Dec 5, 2025** | 🌐 Remote
 
 ---
 
