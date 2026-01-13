@@ -322,7 +322,7 @@
 
 ---
 
-### 💼 [AI Red-Teamer �� Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-4)
+### 💼 [AI Red-Teamer — Adversarial Testing](http://benture.io/job/ai-red-teamer-adversarial-testing-at-mercor-4)
 **📅 Jan 3, 2026** | 🌐 Remote
 
 ---
