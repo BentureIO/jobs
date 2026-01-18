@@ -2,188 +2,213 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: January 17, 2026 at 06:31 AM UTC*
+*Last updated: January 18, 2026 at 06:32 AM UTC*
 
 <!-- JOBS_START -->
 ## 🎯 96 Current Job Openings
 
-### 💼 [Dutch Audio Generalist Evaluator Expert](http://benture.io/job/dutch-audio-generalist-evaluator-expert-at-mercor)
+### 💼 [Journalism Specialist](http://benture.io/job/journalism-specialist-at-mercor)
 **🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Medical Specialist](http://benture.io/job/medical-specialist-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Data Science Expert](http://benture.io/job/data-science-expert-at-mercor-1)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Literature Specialist](http://benture.io/job/literature-specialist-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Consulting Expert](http://benture.io/job/consulting-expert-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Dutch Audio Generalist Evaluator Expert](http://benture.io/job/dutch-audio-generalist-evaluator-expert-at-mercor)
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Physics Olympiad Medalist](http://benture.io/job/physics-olympiad-medalist-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Culinary Expert &amp; Educator](http://benture.io/job/culinary-expert-educator-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [SOC Analyst 2](http://benture.io/job/soc-analyst-2-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Software Engineer](http://benture.io/job/software-engineer-at-mercor-2)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Advanced Git Specialist - Repository Debugging](http://benture.io/job/advanced-git-specialist-repository-debugging-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Software Engineering &amp; Systems Design Expert](http://benture.io/job/software-engineering-systems-design-expert-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Endocrinology Physician (EDM)](http://benture.io/job/endocrinology-physician-edm-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Nephrology Physician](http://benture.io/job/nephrology-physician-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Career/Technical Education Teacher, Middle School](http://benture.io/job/career-technical-education-teacher-middle-school-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Occupational Therapist](http://benture.io/job/occupational-therapist-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Finance Expert](http://benture.io/job/finance-expert-at-mercor-2)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Generalist - English &amp; German](http://benture.io/job/generalist-english-german-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Special Education Teacher, Preschool](http://benture.io/job/special-education-teacher-preschool-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Bilingual AI Evaluator - English &amp; Mandarin](http://benture.io/job/bilingual-ai-evaluator-english-mandarin-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Geological Technician (Except Hydrologic)](http://benture.io/job/geological-technician-except-hydrologic-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Healthcare Expert (MD, DO, RN, NP, PA, MPH)](http://benture.io/job/healthcare-expert-md-do-rn-np-pa-mph-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Cartographer and Photogrammetrist](http://benture.io/job/cartographer-and-photogrammetrist-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Judicial Law Clerks](http://benture.io/job/judicial-law-clerks-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Supply Chain Planning Specialist](http://benture.io/job/supply-chain-planning-specialist-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Operations Expert (Manufacturing/Food/Retail)](http://benture.io/job/operations-expert-manufacturing-food-retail-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Compliance Expert](http://benture.io/job/compliance-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Excel Expert for AI Training Data](http://benture.io/job/excel-expert-for-ai-training-data-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Web and Digital Interface Designer](http://benture.io/job/web-and-digital-interface-designer-at-mercor-1)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Pediatrician, General](http://benture.io/job/pediatrician-general-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Neurologist](http://benture.io/job/neurologist-at-mercor-1)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Adult Education &amp; ESL Instructor](http://benture.io/job/adult-education-esl-instructor-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Air Traffic Controller](http://benture.io/job/air-traffic-controller-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Generalist - English &amp; Italian](http://benture.io/job/generalist-english-italian-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Generalist - English Language Evaluation](http://benture.io/job/ai-generalist-english-language-evaluation-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Equity Researcher](http://benture.io/job/equity-researcher-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Customer Support &amp; Case Management Specialist](http://benture.io/job/customer-support-case-management-specialist-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Business Development Expert](http://benture.io/job/business-development-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Chemistry PhD - AI Model Evaluation](http://benture.io/job/chemistry-phd-ai-model-evaluation-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Office.js Excel AI Training Expert](http://benture.io/job/office-js-excel-ai-training-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Medical Expert - AI Healthcare Development](http://benture.io/job/medical-expert-ai-healthcare-development-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jan 9, 2026** | 🌐 Remote
 
 ---
 
@@ -459,31 +484,6 @@
 
 ### 💼 [Technical Professional for Research Interview](http://benture.io/job/technical-professional-for-research-interview-at-mercor)
 **📅 Dec 19, 2025** | 🌐 Remote
-
----
-
-### 💼 [Soccer Expert - AI Evaluation](http://benture.io/job/soccer-expert-ai-evaluation-at-mercor)
-**📅 Dec 18, 2025** | 🌐 Remote
-
----
-
-### 💼 [Financial Services Sales Agent](http://benture.io/job/financial-services-sales-agent-at-mercor)
-**📅 Dec 18, 2025** | 🌐 Remote
-
----
-
-### 💼 [Sales Rep, Wholesale &amp; Manufacturing](http://benture.io/job/sales-rep-wholesale-manufacturing-at-mercor)
-**📅 Dec 18, 2025** | 🌐 Remote
-
----
-
-### 💼 [Generalist Annotator](http://benture.io/job/generalist-annotator-at-mercor)
-**📅 Dec 18, 2025** | 🌐 Remote
-
----
-
-### 💼 [Psychology/Mental Health AI Evaluation Specialist](http://benture.io/job/psychology-mental-health-ai-evaluation-specialist-at-mercor)
-**📅 Dec 18, 2025** | 🌐 Remote
 
 ---
 
