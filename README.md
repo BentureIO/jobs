@@ -57,7 +57,7 @@
 
 ---
 
-### 💼 [Clinical Data Expert ��� Oncology AI](http://benture.io/job/clinical-data-expert-oncology-ai-at-turing)
+### 💼 [Clinical Data Expert – Oncology AI](http://benture.io/job/clinical-data-expert-oncology-ai-at-turing)
 **⭐ Yesterday** | 🌐 Remote
 
 ---
@@ -408,7 +408,7 @@
 ---
 
 ### 💼 [Bilingual French AI Evaluator Expert](http://benture.io/job/bilingual-french-ai-evaluator-expert-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
