@@ -57,7 +57,7 @@
 
 ---
 
-### 💼 [Clinical Data Expert – Oncology AI](http://benture.io/job/clinical-data-expert-oncology-ai-at-turing)
+### 💼 [Clinical Data Expert ��� Oncology AI](http://benture.io/job/clinical-data-expert-oncology-ai-at-turing)
 **⭐ Yesterday** | 🌐 Remote
 
 ---
