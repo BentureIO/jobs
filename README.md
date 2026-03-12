@@ -38,7 +38,7 @@
 ---
 
 ### 💼 [Generalist Prompt Writer](http://benture.io/job/generalist-prompt-writer-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
