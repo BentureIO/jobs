@@ -2,53 +2,53 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: April 3, 2026 at 07:10 AM UTC*
+*Last updated: April 4, 2026 at 07:01 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 118 Current Job Openings
+## 🎯 113 Current Job Openings
 
 ### 💼 [Creative Filmmaker](http://benture.io/job/creative-filmmaker-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Sr. Strategic Partner Manager](http://benture.io/job/sr-strategic-partner-manager-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Project Manager II - Field Merch](http://benture.io/job/project-manager-ii-field-merch-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Grafana Task Design Engineer](http://benture.io/job/grafana-task-design-engineer-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Social Science PhD Expert](http://benture.io/job/social-science-phd-expert-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [C++ Software Engineer (Sprint)](http://benture.io/job/c-software-engineer-sprint-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [iOS/macOS AI Evaluator Expert](http://benture.io/job/ios-macos-ai-evaluator-expert-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Site Reliability Engineer](http://benture.io/job/site-reliability-engineer-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [C Language Software Engineering Expert](http://benture.io/job/c-language-software-engineering-expert-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
@@ -58,77 +58,77 @@
 ---
 
 ### 💼 [Ruby Software Engineering Expert](http://benture.io/job/ruby-software-engineering-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [PowerShell Software Engineering Expert](http://benture.io/job/powershell-software-engineering-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Rust Software Engineering Expert](http://benture.io/job/rust-software-engineering-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Video Annotation Expert](http://benture.io/job/video-annotation-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Accounting Expert](http://benture.io/job/accounting-expert-at-mercor-3)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Excel/PowerPoint/Document Style Expert](http://benture.io/job/excel-powerpoint-document-style-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Healthcare Workflow Expert](http://benture.io/job/healthcare-workflow-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Legal Workflow Experts (E-Discovery &amp; Legal Tech)](http://benture.io/job/legal-workflow-experts-e-discovery-legal-tech-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Real Estate Domain Expert (AI Eval)](http://benture.io/job/real-estate-domain-expert-ai-eval-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Government/Non-Profit Domain Expert](http://benture.io/job/government-non-profit-domain-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Manufacturing Domain Expert (AI Eval)](http://benture.io/job/manufacturing-domain-expert-ai-eval-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Domain Expert – Retail/Wholesale Trade](http://benture.io/job/domain-expert-retail-wholesale-trade-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Professional Domain Expert (IT)](http://benture.io/job/professional-domain-expert-it-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Health &amp; Medical Domain Expert](http://benture.io/job/health-medical-domain-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Legal Domain Expert (AI Evaluation)](http://benture.io/job/legal-domain-expert-ai-evaluation-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
@@ -568,31 +568,6 @@
 ---
 
 ### 💼 [American English Voice Actor](http://benture.io/job/american-english-voice-actor-at-mercor)
-**📅 Mar 5, 2026** | 🌐 Remote
-
----
-
-### 💼 [Senior Law Librarian / Research Attorney](http://benture.io/job/senior-law-librarian-research-attorney-at-mercor)
-**📅 Mar 5, 2026** | 🌐 Remote
-
----
-
-### 💼 [Transactional / Regulatory Associate](http://benture.io/job/transactional-regulatory-associate-at-mercor)
-**📅 Mar 5, 2026** | 🌐 Remote
-
----
-
-### 💼 [Litigation Associate](http://benture.io/job/litigation-associate-at-mercor)
-**📅 Mar 5, 2026** | 🌐 Remote
-
----
-
-### 💼 [Mold Expert – AI Research Contributor](http://benture.io/job/mold-expert-ai-research-contributor-at-mercor)
-**📅 Mar 5, 2026** | 🌐 Remote
-
----
-
-### 💼 [STEM &amp; Coding Expert (AI Research)](http://benture.io/job/stem-coding-expert-ai-research-at-mercor)
 **📅 Mar 5, 2026** | 🌐 Remote
 
 ---
