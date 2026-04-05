@@ -2,58 +2,58 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: April 4, 2026 at 07:02 AM UTC*
+*Last updated: April 5, 2026 at 07:08 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 113 Current Job Openings
+## 🎯 105 Current Job Openings
 
 ### 💼 [Creative Filmmaker](http://benture.io/job/creative-filmmaker-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 28, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Sr. Strategic Partner Manager](http://benture.io/job/sr-strategic-partner-manager-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 28, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Project Manager II - Field Merch](http://benture.io/job/project-manager-ii-field-merch-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 28, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Grafana Task Design Engineer](http://benture.io/job/grafana-task-design-engineer-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 28, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Social Science PhD Expert](http://benture.io/job/social-science-phd-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [C++ Software Engineer (Sprint)](http://benture.io/job/c-software-engineer-sprint-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [iOS/macOS AI Evaluator Expert](http://benture.io/job/ios-macos-ai-evaluator-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Site Reliability Engineer](http://benture.io/job/site-reliability-engineer-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [C Language Software Engineering Expert](http://benture.io/job/c-language-software-engineering-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [R Language Software Engineering Expert](http://benture.io/job/r-language-software-engineering-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Mar 27, 2026** | 🌐 Remote
 
 ---
 
@@ -529,46 +529,6 @@
 
 ### 💼 [Japanese Professional Voice Actor](http://benture.io/job/japanese-professional-voice-actor-at-mercor)
 **📅 Mar 6, 2026** | 🌐 Remote
-
----
-
-### 💼 [ASIC Power Design Engineer V](http://benture.io/job/asic-power-design-engineer-v-at-mercor)
-**📅 Mar 6, 2026** | 🌐 Remote
-
----
-
-### 💼 [Open Source Contributor](http://benture.io/job/open-source-contributor-at-mercor)
-**📅 Mar 6, 2026** | 🌐 Remote
-
----
-
-### 💼 [Open Source Contributor – Rust](http://benture.io/job/open-source-contributor-rust-at-mercor)
-**📅 Mar 6, 2026** | 🌐 Remote
-
----
-
-### 💼 [Software Engineer II](http://benture.io/job/software-engineer-ii-at-mercor-1)
-**📅 Mar 6, 2026** | 🌐 Remote
-
----
-
-### 💼 [Open Source Contributor – Java](http://benture.io/job/open-source-contributor-java-at-mercor)
-**📅 Mar 6, 2026** | 🌐 Remote
-
----
-
-### 💼 [Australian Voice Actor](http://benture.io/job/australian-voice-actor-at-mercor)
-**📅 Mar 5, 2026** | 🌐 Remote
-
----
-
-### 💼 [British English Voice Actor](http://benture.io/job/british-english-voice-actor-at-mercor)
-**📅 Mar 5, 2026** | 🌐 Remote
-
----
-
-### 💼 [American English Voice Actor](http://benture.io/job/american-english-voice-actor-at-mercor)
-**📅 Mar 5, 2026** | 🌐 Remote
 
 ---
 
