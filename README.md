@@ -2,10 +2,10 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: April 5, 2026 at 07:08 AM UTC*
+*Last updated: April 6, 2026 at 07:44 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 105 Current Job Openings
+## 🎯 102 Current Job Openings
 
 ### 💼 [Creative Filmmaker](http://benture.io/job/creative-filmmaker-at-mercor)
 **📅 Mar 28, 2026** | 🌐 Remote
@@ -514,21 +514,6 @@
 
 ### 💼 [Business Intelligence Evaluator](http://benture.io/job/business-intelligence-evaluator-at-mercor)
 **📅 Mar 7, 2026** | 🌐 Remote
-
----
-
-### 💼 [PhD Rater – STEM &amp; AI Evaluation](http://benture.io/job/phd-rater-stem-ai-evaluation-at-mercor)
-**📅 Mar 7, 2026** | 🌐 Remote
-
----
-
-### 💼 [Malay Audio Evaluator Expert](http://benture.io/job/malay-audio-evaluator-expert-at-mercor)
-**📅 Mar 6, 2026** | 🌐 Remote
-
----
-
-### 💼 [Japanese Professional Voice Actor](http://benture.io/job/japanese-professional-voice-actor-at-mercor)
-**📅 Mar 6, 2026** | 🌐 Remote
 
 ---
 
