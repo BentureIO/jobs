@@ -2,10 +2,10 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: April 6, 2026 at 07:44 AM UTC*
+*Last updated: April 7, 2026 at 07:18 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 102 Current Job Openings
+## 🎯 94 Current Job Openings
 
 ### 💼 [Creative Filmmaker](http://benture.io/job/creative-filmmaker-at-mercor)
 **📅 Mar 28, 2026** | 🌐 Remote
@@ -474,46 +474,6 @@
 
 ### 💼 [Software Engineer (Cybersecurity)](http://benture.io/job/software-engineer-cybersecurity-at-mercor)
 **📅 Mar 9, 2026** | 🌐 Remote
-
----
-
-### 💼 [Sports Analytics Evaluator](http://benture.io/job/sports-analytics-evaluator-at-mercor)
-**📅 Mar 7, 2026** | 🌐 Remote
-
----
-
-### 💼 [Scientific Research Evaluator](http://benture.io/job/scientific-research-evaluator-at-mercor)
-**📅 Mar 7, 2026** | 🌐 Remote
-
----
-
-### 💼 [Medical Research Evaluator](http://benture.io/job/medical-research-evaluator-at-mercor)
-**📅 Mar 7, 2026** | 🌐 Remote
-
----
-
-### 💼 [Government &amp; Public Policy Evaluator](http://benture.io/job/government-public-policy-evaluator-at-mercor)
-**📅 Mar 7, 2026** | 🌐 Remote
-
----
-
-### 💼 [Financial Analysis Evaluator](http://benture.io/job/financial-analysis-evaluator-at-mercor)
-**📅 Mar 7, 2026** | 🌐 Remote
-
----
-
-### 💼 [Environmental Science Evaluator](http://benture.io/job/environmental-science-evaluator-at-mercor)
-**📅 Mar 7, 2026** | 🌐 Remote
-
----
-
-### 💼 [E-Commerce Evaluator](http://benture.io/job/e-commerce-evaluator-at-mercor)
-**📅 Mar 7, 2026** | 🌐 Remote
-
----
-
-### 💼 [Business Intelligence Evaluator](http://benture.io/job/business-intelligence-evaluator-at-mercor)
-**📅 Mar 7, 2026** | 🌐 Remote
 
 ---
 
