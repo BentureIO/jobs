@@ -2,338 +2,568 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: April 9, 2026 at 07:24 AM UTC*
+*Last updated: April 10, 2026 at 07:42 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 154 Current Job Openings
+## 🎯 192 Current Job Openings
+
+### 💼 [Senior Software Engineer – LLM Eval](http://benture.io/job/senior-software-engineer-llm-eval-at-turing-8)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Software Engineer – LLM Eval](http://benture.io/job/senior-software-engineer-llm-eval-at-turing-7)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Software Engineer – LLM Eval](http://benture.io/job/senior-software-engineer-llm-eval-at-turing-6)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Software Engineer – LLM Eval](http://benture.io/job/senior-software-engineer-llm-eval-at-turing-5)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Software Engineer – LLM Eval](http://benture.io/job/senior-software-engineer-llm-eval-at-turing-4)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Software Engineer – LLM Eval](http://benture.io/job/senior-software-engineer-llm-eval-at-turing-3)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Software Engineer – LLM Eval](http://benture.io/job/senior-software-engineer-llm-eval-at-turing-2)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Python Engineer – LLM Eval](http://benture.io/job/senior-python-engineer-llm-eval-at-turing-8)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Python Engineer – LLM Eval](http://benture.io/job/senior-python-engineer-llm-eval-at-turing-7)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Python Engineer – LLM Eval](http://benture.io/job/senior-python-engineer-llm-eval-at-turing-6)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Python Engineer – LLM Eval](http://benture.io/job/senior-python-engineer-llm-eval-at-turing-5)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Python Engineer – LLM Eval](http://benture.io/job/senior-python-engineer-llm-eval-at-turing-4)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Python Engineer – LLM Eval](http://benture.io/job/senior-python-engineer-llm-eval-at-turing-3)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Python Engineer – LLM Eval](http://benture.io/job/senior-python-engineer-llm-eval-at-turing-2)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Python Engineer – LLM Eval](http://benture.io/job/senior-python-engineer-llm-eval-at-turing-1)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior JavaScript/React Engineer](http://benture.io/job/senior-javascript-react-engineer-at-turing-9)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior JavaScript/React Engineer](http://benture.io/job/senior-javascript-react-engineer-at-turing-8)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior JavaScript/React Engineer](http://benture.io/job/senior-javascript-react-engineer-at-turing-7)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior JavaScript/React Engineer](http://benture.io/job/senior-javascript-react-engineer-at-turing-6)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Backend Engineer (Python/FastAPI)](http://benture.io/job/senior-backend-engineer-python-fastapi-at-turing-7)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Backend Engineer (Python/FastAPI)](http://benture.io/job/senior-backend-engineer-python-fastapi-at-turing-6)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Backend Engineer (Python/FastAPI)](http://benture.io/job/senior-backend-engineer-python-fastapi-at-turing-5)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Backend Engineer (Python/FastAPI)](http://benture.io/job/senior-backend-engineer-python-fastapi-at-turing-4)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Backend Engineer (Python/FastAPI)](http://benture.io/job/senior-backend-engineer-python-fastapi-at-turing-3)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Backend Engineer (Python/FastAPI)](http://benture.io/job/senior-backend-engineer-python-fastapi-at-turing-2)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Backend Engineer (Python/FastAPI)](http://benture.io/job/senior-backend-engineer-python-fastapi-at-turing-1)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Software Engineer – AI Evaluation](http://benture.io/job/software-engineer-ai-evaluation-at-turing-4)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Software Engineer – AI Evaluation](http://benture.io/job/software-engineer-ai-evaluation-at-turing-3)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Software Engineer – AI Evaluation](http://benture.io/job/software-engineer-ai-evaluation-at-turing-2)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Software Engineer – AI Research](http://benture.io/job/software-engineer-ai-research-at-turing-1)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Software Engineer – AI Research &amp; Eval](http://benture.io/job/software-engineer-ai-research-eval-at-turing-1)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Software Engineer – AI Research](http://benture.io/job/software-engineer-ai-research-at-turing)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Software Engineer – AI Research &amp; Eval](http://benture.io/job/software-engineer-ai-research-eval-at-turing)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Software Engineer – AI Evaluation](http://benture.io/job/software-engineer-ai-evaluation-at-turing-1)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Software Engineer – AI Evaluation](http://benture.io/job/software-engineer-ai-evaluation-at-turing)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Backend Engineer (Python/FastAPI)](http://benture.io/job/senior-backend-engineer-python-fastapi-at-turing)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior JavaScript/React Engineer](http://benture.io/job/senior-javascript-react-engineer-at-turing-5)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior JavaScript/React Engineer](http://benture.io/job/senior-javascript-react-engineer-at-turing-4)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior JavaScript/React Engineer](http://benture.io/job/senior-javascript-react-engineer-at-turing-3)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [AI Quality Analyst (Personalization) - Hindi](http://benture.io/job/ai-quality-analyst-personalization-hindi-at-turing)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior JavaScript/React Engineer](http://benture.io/job/senior-javascript-react-engineer-at-turing-2)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior JavaScript/React Engineer](http://benture.io/job/senior-javascript-react-engineer-at-turing-1)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior JavaScript/React Engineer](http://benture.io/job/senior-javascript-react-engineer-at-turing)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Python Engineer – LLM Eval](http://benture.io/job/senior-python-engineer-llm-eval-at-turing)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Software Engineer – LLM Eval](http://benture.io/job/senior-software-engineer-llm-eval-at-turing-1)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Senior Software Engineer – LLM Eval](http://benture.io/job/senior-software-engineer-llm-eval-at-turing)
+**🔥 Today** | 🌐 Remote
+
+---
 
 ### 💼 [English Language Specialist (AI Trainer)](http://benture.io/job/english-language-specialist-ai-trainer-at-invisible-tech-2)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [English Language Specialist (AI Trainer)](http://benture.io/job/english-language-specialist-ai-trainer-at-invisible-tech-1)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Sr. Front End Developer (RL GYM)](http://benture.io/job/sr-front-end-developer-rl-gym-at-turing)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Project Manager / Team Lead](http://benture.io/job/ai-project-manager-team-lead-at-turing)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [English Language Specialist – AI Trainer](http://benture.io/job/english-language-specialist-ai-trainer-at-invisible-tech)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [LLM DevOps Engineer](http://benture.io/job/llm-devops-engineer-at-turing)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Transcription Specialist – Chinese](http://benture.io/job/transcription-specialist-chinese-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Transcription Specialist – Hebrew](http://benture.io/job/transcription-specialist-hebrew-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Transcription Specialist – Norwegian](http://benture.io/job/transcription-specialist-norwegian-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Transcription Specialist – Swedish](http://benture.io/job/transcription-specialist-swedish-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Content Specialist](http://benture.io/job/content-specialist-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Finance &amp; Insurance Expert](http://benture.io/job/finance-insurance-expert-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Government Sector Expert](http://benture.io/job/government-sector-expert-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Healthcare &amp; Social Assistance Expert](http://benture.io/job/healthcare-social-assistance-expert-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Manufacturing Sector Expert](http://benture.io/job/manufacturing-sector-expert-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Professional &amp; Technical Domain Expert](http://benture.io/job/professional-technical-domain-expert-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Real Estate &amp; Rental Domain Expert](http://benture.io/job/real-estate-rental-domain-expert-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Retail Trade Expert](http://benture.io/job/retail-trade-expert-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Wholesale Trade Expert](http://benture.io/job/wholesale-trade-expert-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Frontend Engineer (React/TS/GraphQL)](http://benture.io/job/frontend-engineer-react-ts-graphql-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Chemistry Image Creator (AI Training)](http://benture.io/job/chemistry-image-creator-ai-training-at-turing-1)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Operational Research Specialist](http://benture.io/job/operational-research-specialist-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [LLM Annotator – CUA Trajectory](http://benture.io/job/llm-annotator-cua-trajectory-at-turing-1)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [LLM S3 Annotator (OpenClaw)](http://benture.io/job/llm-s3-annotator-openclaw-at-turing-1)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Mathematics &amp; Finance Expert](http://benture.io/job/mathematics-finance-expert-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Subject Matter Expert](http://benture.io/job/subject-matter-expert-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Technical / Cloud Architect](http://benture.io/job/technical-cloud-architect-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Gemini) -Thai](http://benture.io/job/ai-quality-analyst-gemini-thai-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Image Creation: Mathematics](http://benture.io/job/image-creation-mathematics-at-turing-1)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Image Creation: Biology (AI Training)](http://benture.io/job/image-creation-biology-ai-training-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Tax Form Annotation Specialist](http://benture.io/job/tax-form-annotation-specialist-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Finance Expert (Chat Support)](http://benture.io/job/finance-expert-chat-support-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Transcription Specialist (Danish)](http://benture.io/job/transcription-specialist-danish-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Lead Atlassian Developer](http://benture.io/job/lead-atlassian-developer-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Photoshop Specialist](http://benture.io/job/photoshop-specialist-at-turing-2)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Senior Data Scientist](http://benture.io/job/senior-data-scientist-at-turing-1)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Senior Data Scientist](http://benture.io/job/senior-data-scientist-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Agentic Tasker (Frontier STEM)](http://benture.io/job/agentic-tasker-frontier-stem-at-turing-1)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Customer Service Domain Expert](http://benture.io/job/customer-service-domain-expert-at-turing-1)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Agentic Tasker (Frontier STEM)](http://benture.io/job/agentic-tasker-frontier-stem-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Personalization) - Polish](http://benture.io/job/ai-quality-analyst-personalization-polish-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Personalization) - Dutch](http://benture.io/job/ai-quality-analyst-personalization-dutch-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Personalization) - Bulgarian](http://benture.io/job/ai-quality-analyst-personalization-bulgarian-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Personalization) - Danish](http://benture.io/job/ai-quality-analyst-personalization-danish-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Personalization) - Finnish](http://benture.io/job/ai-quality-analyst-personalization-finnish-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Personalization) - Greek](http://benture.io/job/ai-quality-analyst-personalization-greek-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Personalization) - Norwegian](http://benture.io/job/ai-quality-analyst-personalization-norwegian-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Personalization) - Swedish](http://benture.io/job/ai-quality-analyst-personalization-swedish-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Personalization) - French](http://benture.io/job/ai-quality-analyst-personalization-french-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Personalization) - German](http://benture.io/job/ai-quality-analyst-personalization-german-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Personalization) - Italian](http://benture.io/job/ai-quality-analyst-personalization-italian-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Senior QA Engineer](http://benture.io/job/senior-qa-engineer-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Sales Domain Expert](http://benture.io/job/sales-domain-expert-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Customer Service Domain Expert](http://benture.io/job/customer-service-domain-expert-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Diagnostics &amp; Troubleshooting Expert](http://benture.io/job/diagnostics-troubleshooting-expert-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Personalization) - Romanian](http://benture.io/job/ai-quality-analyst-personalization-romanian-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Engineering Design Specialist](http://benture.io/job/engineering-design-specialist-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Electrical Engineering Pod Lead](http://benture.io/job/electrical-engineering-pod-lead-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Engineering Manager](http://benture.io/job/engineering-manager-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Biology Expert (AI Research)](http://benture.io/job/biology-expert-ai-research-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Technical Project Manager (AI)](http://benture.io/job/technical-project-manager-ai-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [LLM Annotator – CUA Trajectories](http://benture.io/job/llm-annotator-cua-trajectories-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Quality Analyst (Personalization) - Spanish](http://benture.io/job/ai-quality-analyst-personalization-spanish-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [LLM S3 Annotator – OpenClaw](http://benture.io/job/llm-s3-annotator-openclaw-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [LLM Annotator – CUA Trajectory](http://benture.io/job/llm-annotator-cua-trajectory-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [AI Research Report Evaluator](http://benture.io/job/ai-research-report-evaluator-at-turing)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
@@ -734,46 +964,6 @@
 
 ### 💼 [Domain Expert Prompt Writer](http://benture.io/job/domain-expert-prompt-writer-at-mercor)
 **📅 Mar 11, 2026** | 🌐 Remote
-
----
-
-### 💼 [Generalist Prompt Writer](http://benture.io/job/generalist-prompt-writer-at-mercor)
-**📅 Mar 11, 2026** | 🌐 Remote
-
----
-
-### 💼 [Data Engineer I - Sensor Specialist](http://benture.io/job/data-engineer-i-sensor-specialist-at-mercor)
-**📅 Mar 11, 2026** | 🌐 Remote
-
----
-
-### 💼 [STEM OCR &amp; LaTeX QA Specialist](http://benture.io/job/stem-ocr-latex-qa-specialist-at-mercor)
-**📅 Mar 11, 2026** | 🌐 Remote
-
----
-
-### 💼 [Oncologist – AI Research Consultant](http://benture.io/job/oncologist-ai-research-consultant-at-mercor)
-**📅 Mar 11, 2026** | 🌐 Remote
-
----
-
-### 💼 [Senior Embedded Firmware Engineer](http://benture.io/job/senior-embedded-firmware-engineer-at-mercor)
-**📅 Mar 11, 2026** | 🌐 Remote
-
----
-
-### 💼 [PhD-Level Bioinformatics Expert](http://benture.io/job/phd-level-bioinformatics-expert-at-mercor)
-**📅 Mar 11, 2026** | 🌐 Remote
-
----
-
-### 💼 [Senior Full Stack Software Engineer](http://benture.io/job/senior-full-stack-software-engineer-at-mercor)
-**📅 Mar 11, 2026** | 🌐 Remote
-
----
-
-### 💼 [Hebrew Professional Voice Actor](http://benture.io/job/hebrew-professional-voice-actor-at-mercor)
-**📅 Mar 10, 2026** | 🌐 Remote
 
 ---
 
