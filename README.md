@@ -7,7 +7,7 @@
 <!-- JOBS_START -->
 ## 🎯 381 Current Job Openings
 
-### 💼 [Pediatric Nurse (RN) – AI Training](http://benture.io/job/pediatric-nurse-rn-ai-training-at-mercor)
+### 💼 [Pediatric Nurse (RN) �� AI Training](http://benture.io/job/pediatric-nurse-rn-ai-training-at-mercor)
 **🔥 Today** | 🌐 Remote
 
 ---
