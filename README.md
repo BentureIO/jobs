@@ -293,7 +293,7 @@
 ---
 
 ### 💼 [Mathematics Specialist](http://benture.io/job/mathematics-specialist-at-turing)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jun 12, 2026** | 🌐 Remote
 
 ---
 
