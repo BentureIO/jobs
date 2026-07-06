@@ -2,123 +2,123 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: July 5, 2026 at 08:52 AM UTC*
+*Last updated: July 6, 2026 at 10:22 AM UTC*
 
 <!-- JOBS_START -->
 ## 🎯 177 Current Job Openings
 
 ### 💼 [Senior Software Engineer (AI Eval)](http://benture.io/job/senior-software-engineer-ai-eval-at-mercor)
-**🔥 Today** | 🌐 Remote
+**⭐ Yesterday** | 🌐 Remote
 
 ---
 
 ### 💼 [Accounting Specialist (ASC 606)](http://benture.io/job/accounting-specialist-asc-606-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Investment Banking M&amp;A Specialist](http://benture.io/job/investment-banking-m-a-specialist-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Marketing Analytics Specialist](http://benture.io/job/marketing-analytics-specialist-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Website Designer (UK-Based)](http://benture.io/job/website-designer-uk-based-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [ASIC/SoC Design &amp; Verification Engineer](http://benture.io/job/asic-soc-design-verification-engineer-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Design Expert](http://benture.io/job/design-expert-at-mercor-1)
-**📅 2 days ago** | 🌐 Remote
+**📅 3 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Russian Audio Evaluator Expert](http://benture.io/job/russian-audio-evaluator-expert-at-mercor)
-**📅 2 days ago** | 🌐 Remote
+**📅 3 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Hindi Audio Evaluator Expert](http://benture.io/job/hindi-audio-evaluator-expert-at-mercor)
-**📅 2 days ago** | 🌐 Remote
+**📅 3 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Computer Vision Expert](http://benture.io/job/computer-vision-expert-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Machine Learning &amp; NLP Expert](http://benture.io/job/machine-learning-nlp-expert-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Enterprise Sales Domain Expert](http://benture.io/job/enterprise-sales-domain-expert-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Household Activity Video Contributor](http://benture.io/job/household-activity-video-contributor-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Freelance AI Video Trainer (LATAM)](http://benture.io/job/freelance-ai-video-trainer-latam-at-invisible-tech)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Recruiter](http://benture.io/job/recruiter-at-mercor-1)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Precious Metals Markets Expert](http://benture.io/job/precious-metals-markets-expert-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Molecular Biology Expert](http://benture.io/job/molecular-biology-expert-at-mercor)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Physics PhD AI Research Contributor](http://benture.io/job/physics-phd-ai-research-contributor-at-mercor-1)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Voice Actor: CX Agent Voice Cloning](http://benture.io/job/voice-actor-cx-agent-voice-cloning-at-mercor-7)
-**📅 5 days ago** | 🌐 Remote
+**📅 6 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Private Banking Expert](http://benture.io/job/private-banking-expert-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jun 28, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Software Engineer, Clinical Data](http://benture.io/job/software-engineer-clinical-data-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jun 28, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Senior Full Stack Engineer (TS/React)](http://benture.io/job/senior-full-stack-engineer-ts-react-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jun 28, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [DevSecOps Engineer](http://benture.io/job/devsecops-engineer-at-mercor)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jun 28, 2026** | 🌐 Remote
 
 ---
 
