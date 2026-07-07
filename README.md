@@ -2,103 +2,233 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: July 6, 2026 at 10:22 AM UTC*
+*Last updated: July 7, 2026 at 09:41 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 177 Current Job Openings
+## 🎯 199 Current Job Openings
+
+### 💼 [Music Audio Expert - Spanish (MX)](http://benture.io/job/music-audio-expert-spanish-mx-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Spanish (ES)](http://benture.io/job/music-audio-expert-spanish-es-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Turkish](http://benture.io/job/music-audio-expert-turkish-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Vietnamese](http://benture.io/job/music-audio-expert-vietnamese-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Thai](http://benture.io/job/music-audio-expert-thai-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Telugu](http://benture.io/job/music-audio-expert-telugu-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Tamil](http://benture.io/job/music-audio-expert-tamil-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Swedish](http://benture.io/job/music-audio-expert-swedish-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Russian](http://benture.io/job/music-audio-expert-russian-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Punjabi](http://benture.io/job/music-audio-expert-punjabi-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Portuguese](http://benture.io/job/music-audio-expert-portuguese-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Mandarin Chinese](http://benture.io/job/music-audio-expert-mandarin-chinese-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Malayalam](http://benture.io/job/music-audio-expert-malayalam-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Korean](http://benture.io/job/music-audio-expert-korean-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Japanese](http://benture.io/job/music-audio-expert-japanese-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Italian](http://benture.io/job/music-audio-expert-italian-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Indonesian](http://benture.io/job/music-audio-expert-indonesian-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Hindi](http://benture.io/job/music-audio-expert-hindi-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Greek](http://benture.io/job/music-audio-expert-greek-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - French](http://benture.io/job/music-audio-expert-french-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - English](http://benture.io/job/music-audio-expert-english-at-mercor-1)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - English](http://benture.io/job/music-audio-expert-english-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Arabic](http://benture.io/job/music-audio-expert-arabic-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - German](http://benture.io/job/music-audio-expert-german-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - Dutch](http://benture.io/job/music-audio-expert-dutch-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
+
+### 💼 [Music Audio Expert - English (US)](http://benture.io/job/music-audio-expert-english-us-at-mercor)
+**🔥 Today** | 🌐 Remote
+
+---
 
 ### 💼 [Senior Software Engineer (AI Eval)](http://benture.io/job/senior-software-engineer-ai-eval-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Accounting Specialist (ASC 606)](http://benture.io/job/accounting-specialist-asc-606-at-mercor)
-**📅 2 days ago** | 🌐 Remote
+**📅 3 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Investment Banking M&amp;A Specialist](http://benture.io/job/investment-banking-m-a-specialist-at-mercor)
-**📅 2 days ago** | 🌐 Remote
+**📅 3 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Marketing Analytics Specialist](http://benture.io/job/marketing-analytics-specialist-at-mercor)
-**📅 2 days ago** | 🌐 Remote
+**📅 3 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Website Designer (UK-Based)](http://benture.io/job/website-designer-uk-based-at-mercor)
-**📅 2 days ago** | 🌐 Remote
+**📅 3 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [ASIC/SoC Design &amp; Verification Engineer](http://benture.io/job/asic-soc-design-verification-engineer-at-mercor)
-**📅 2 days ago** | 🌐 Remote
+**📅 3 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Design Expert](http://benture.io/job/design-expert-at-mercor-1)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Russian Audio Evaluator Expert](http://benture.io/job/russian-audio-evaluator-expert-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Hindi Audio Evaluator Expert](http://benture.io/job/hindi-audio-evaluator-expert-at-mercor)
-**📅 3 days ago** | 🌐 Remote
+**📅 4 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Computer Vision Expert](http://benture.io/job/computer-vision-expert-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Machine Learning &amp; NLP Expert](http://benture.io/job/machine-learning-nlp-expert-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Enterprise Sales Domain Expert](http://benture.io/job/enterprise-sales-domain-expert-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Household Activity Video Contributor](http://benture.io/job/household-activity-video-contributor-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Freelance AI Video Trainer (LATAM)](http://benture.io/job/freelance-ai-video-trainer-latam-at-invisible-tech)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Recruiter](http://benture.io/job/recruiter-at-mercor-1)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Precious Metals Markets Expert](http://benture.io/job/precious-metals-markets-expert-at-mercor)
-**📅 4 days ago** | 🌐 Remote
+**📅 5 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Molecular Biology Expert](http://benture.io/job/molecular-biology-expert-at-mercor)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Physics PhD AI Research Contributor](http://benture.io/job/physics-phd-ai-research-contributor-at-mercor-1)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
 ### 💼 [Voice Actor: CX Agent Voice Cloning](http://benture.io/job/voice-actor-cx-agent-voice-cloning-at-mercor-7)
-**📅 6 days ago** | 🌐 Remote
+**📅 7 days ago** | 🌐 Remote
 
 ---
 
@@ -868,26 +998,6 @@
 ---
 
 ### 💼 [General Sales / GTM Evaluator](http://benture.io/job/general-sales-gtm-evaluator-at-mercor)
-**📅 Jun 7, 2026** | 🌐 Remote
-
----
-
-### 💼 [Pricing &amp; Revenue Economics Evaluator](http://benture.io/job/pricing-revenue-economics-evaluator-at-mercor)
-**📅 Jun 7, 2026** | 🌐 Remote
-
----
-
-### 💼 [Customer Success Evaluator](http://benture.io/job/customer-success-evaluator-at-mercor)
-**📅 Jun 7, 2026** | 🌐 Remote
-
----
-
-### 💼 [Generalist Expert](http://benture.io/job/generalist-expert-at-mercor-1)
-**📅 Jun 7, 2026** | 🌐 Remote
-
----
-
-### 💼 [Professional Photographer / Videographer](http://benture.io/job/professional-photographer-videographer-at-mercor)
 **📅 Jun 7, 2026** | 🌐 Remote
 
 ---
