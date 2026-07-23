@@ -2,7 +2,7 @@
 
 > Automatically updated daily with the latest remote opportunities from [Benture.io](https://benture.io/)
 
-*Last updated: July 23, 2026 at 08:30 AM UTC*
+*Last updated: July 23, 2026 at 08:45 AM UTC*
 
 <!-- JOBS_START -->
 ## 🎯 647 Current Job Openings
@@ -903,12 +903,12 @@
 ---
 
 ### 💼 [Audit &amp; Assurance Accounting Expert](http://benture.io/job/audit-assurance-accounting-expert-at-afterquery)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jul 15, 2026** | 🌐 Remote
 
 ---
 
 ### 💼 [Tax Accountant Expert](http://benture.io/job/tax-accountant-expert-at-afterquery)
-**📅 7 days ago** | 🌐 Remote
+**📅 Jul 15, 2026** | 🌐 Remote
 
 ---
 
