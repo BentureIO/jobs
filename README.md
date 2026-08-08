@@ -298,7 +298,7 @@
 ---
 
 ### 💼 [Mechanical Engineering Writer](http://benture.io/job/mechanical-engineering-writer-at-mercor)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
