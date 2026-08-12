@@ -5,7 +5,7 @@
 *Last updated: August 12, 2026 at 07:24 AM UTC*
 
 <!-- JOBS_START -->
-## 🎯 833 Current Job Openings
+## 🎯 832 Current Job Openings
 
 ### 💼 [Federal Reporting &amp; Staff Writing Expert](http://benture.io/job/federal-reporting-staff-writing-expert-at-micro1)
 **🔥 Today** | 🌐 Remote
@@ -4163,11 +4163,6 @@
 ---
 
 ### 💼 [Bambara Language Expert](http://benture.io/job/bambara-language-expert-at-micro1)
-**📅 Jul 13, 2026** | 🌐 Remote
-
----
-
-### 💼 [PhD Engineer (Electrical/Mechanical/Chemical)](http://benture.io/job/phd-engineer-electrical-mechanical-chemical-at-micro1)
 **📅 Jul 13, 2026** | 🌐 Remote
 
 ---
