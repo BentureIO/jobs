@@ -7,7 +7,7 @@
 <!-- JOBS_START -->
 ## 🎯 576 Current Job Openings
 
-### 💼 [Banking Domain Expert ��� Oracle FLEXCUBE](http://benture.io/job/banking-domain-expert-oracle-flexcube-at-mercor)
+### 💼 [Banking Domain Expert – Oracle FLEXCUBE](http://benture.io/job/banking-domain-expert-oracle-flexcube-at-mercor)
 **🔥 Today** | 🌐 Remote
 
 ---
