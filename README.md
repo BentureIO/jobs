@@ -113,7 +113,7 @@
 ---
 
 ### 💼 [Life Sciences Subject Matter Expert](https://benture.io/job/life-sciences-subject-matter-expert-at-turing-3)
-**⭐ Yesterday** | 🌐 Remote
+**📅 2 days ago** | 🌐 Remote
 
 ---
 
