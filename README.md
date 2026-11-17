@@ -212,7 +212,7 @@
 
 ---
 
-### 💼 [Insurance Agency Owner ��� Paid Research Interview](https://benture.io/job/insurance-agency-owner-paid-research-interview-at-mercor)
+### 💼 [Insurance Agency Owner – Paid Research Interview](https://benture.io/job/insurance-agency-owner-paid-research-interview-at-mercor)
 **⭐ Yesterday** | 🌐 Remote
 
 ---
